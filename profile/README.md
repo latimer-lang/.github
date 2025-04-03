@@ -1,1 +1,1 @@
-[Latimer](https://www.latimer-lang.org) is statically-typed interpreted language designed for efficiency, safety, and developer productivity.
+[Latimer](https://www.latimer-lang.org) is a statically-typed interpreted programming language built for speed, safety, and clarity.
